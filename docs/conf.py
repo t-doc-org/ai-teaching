@@ -4,7 +4,7 @@
 from tdoc.common.defaults import *
 
 project = "AI teaching"
-copyright = "%Y Brice Canvel"
+author = "Brice Canvel"
 license = 'CC-BY-NC-SA-4.0'
 language = 'fr'
 
